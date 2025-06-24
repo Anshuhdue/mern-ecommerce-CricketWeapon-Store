@@ -267,7 +267,7 @@ const Footer = () => {
                 <p>
                   &copy; {currYear} | Cricket weapon, All Rights Reserved.
                   <span>
-                    <a href="iam-devesh.tech"> | Built by Iam_DEv</a>
+                    <a href="https://www.instagram.com/anshu__gupta17?igsh=OWZjYTVwMTR3MTB6"> | Built by Om Gupta</a>
                   </span>
                 </p>
               </div>
