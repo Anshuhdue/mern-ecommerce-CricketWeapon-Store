@@ -123,7 +123,7 @@ const footMenu = [
    {
      id: 4,
      icon: <LinkedInIcon className="likedin_icon" fontSize="large" />,
-     path: "https://www.linkedin.com/in/iam-devesh/",
+     path: "https://www.linkedin.com/in/om-gupta-191991269/",
    },
  ];
 
